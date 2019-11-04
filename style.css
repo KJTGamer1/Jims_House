@@ -3,8 +3,8 @@ article, aside, footer, header, banner, main, nav, section {
 	display: block;
 }
 html, body, h1, h2, h3 ui, li, a, p, article, aside, footer, header, main, nav, section{
-padding: 0;
+padding: 5;
 margin: 0;
-banner {
+.banner {
 background-color: = #000000;	
 }
