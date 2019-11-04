@@ -5,6 +5,7 @@ article, aside, footer, header, banner, main, nav, section {
 html, body, h1, h2, h3 ui, li, a, p, article, aside, footer, header, main, nav, section{
 padding: 5;
 margin: 0;
+}
 .banner {
 background-color: = #000000;	
 }
